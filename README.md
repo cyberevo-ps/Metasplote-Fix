@@ -11,5 +11,7 @@ git clone https://github.com/bohaydar/Metasplote-Fix.git
 
 cd Metasplote-Fix
 
+pip install lolcat
+
 python msf.py
 _________________________________
