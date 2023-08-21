@@ -9,7 +9,7 @@ apt install python
 
 git clone https://github.com/bohaydar/Metasplote-Fix.git
 
-cd Metasplite-Fix
+cd Metasplote-Fix
 
-python msf.pt
+python msf.py
 _________________________________
